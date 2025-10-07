@@ -81,7 +81,8 @@ Genome annotation supports:
 - Biotechnology and precision medicine research  
 
 ---
-
+## 📄 Project Report
+You can view the complete project report here: Overview of Genome Annotation(Debopriya).pdf
 ## 🧠 Author
 **Debopriya**  
 📧 [debopriya0920@gmail.com](mailto:debopriya0920@gmail.com)  
