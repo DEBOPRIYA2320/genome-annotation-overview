@@ -82,7 +82,7 @@ Genome annotation supports:
 
 ---
 ## 📄 Project Report
-You can view the complete project report here: Overview of Genome Annotation(Debopriya).pdf
+You can view the complete project report here: https://github.com/DEBOPRIYA2320/genome-annotation-overview/blob/eb795703c97055475c41685a1e29834415179479/Overview%20of%20Genome%20Annotation(Debopriya).pdf
 ## 🧠 Author
 **Debopriya**  
 📧 [debopriya0920@gmail.com](mailto:debopriya0920@gmail.com)  
